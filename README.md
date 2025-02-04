@@ -13,13 +13,11 @@ A simple, responsive sign-up page built with pure HTML, CSS, and JavaScript. The
 
 - **HTML5** for structuring the page.
 - **CSS3** for styling and responsive layout.
-- **JavaScript (ES6)** for form validation and interactivity.
 
 ## 🔧 Project Goals
 
 - Understand the fundamentals of web development without the abstraction of frameworks.
-- Improve CSS layout skills using Flexbox and basic media queries.
-- Practice JavaScript form validation techniques.
+- Try out responsive functions like `min()`, `max()` and `clamp()` and new CSS updates like nesting.
 
 ## 💡 Getting Started
 
@@ -28,18 +26,9 @@ A simple, responsive sign-up page built with pure HTML, CSS, and JavaScript. The
 
 **Open `index.html` in your browser:** You can simply double-click the file or open it via your preferred development server.
 
-🖼️ ## Preview
+## 🖼️ Preview
 
-📦 ## Folder Structure
-
-```
-basic-sign-up-page/
-├── index.html
-├── styles.css
-└── script.js
-```
-
-✍️ ## Contributing
+## ✍️ Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
